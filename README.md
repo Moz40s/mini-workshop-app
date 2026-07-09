@@ -1,13 +1,20 @@
-# Project Piston v14 — Vehicle State Engine
+# Project Piston v15
 
-Added Vehicle State Engine prototype:
+UI architecture update:
 
-- Tasks are grouped by vehicle state, not repeated isolated stages.
-- Annual Service now keeps cabin filter/interior work on the ground.
-- Vehicle is raised once for underside work only.
-- Vehicle is lowered before oil refill/final checks.
-- Timing Chain now tracks states such as RH arch access, engine supported, timing exposed.
-- Auxiliary Belt tracks belt removed / belt system exposed state.
-- Evidence now attaches to vehicle states.
-
-This reduces repetition, removes ambiguity, and improves safety logic.
+- Fixed dropdown order across every procedure.
+- Dropdowns always visible in Garage Mode.
+- Content changes, layout never changes.
+- Added persistent sections:
+  - Procedure Details
+  - Safety
+  - Mechanic's Insight
+  - Why?
+  - Common Mistakes
+  - Workshop Standard
+  - Torque & Specifications
+  - Images & Diagrams
+  - Related Procedures
+  - My Workshop Notes
+- Empty dropdowns remain available and explain when no information applies.
+- Future enhancement: remember user expanded/collapsed preferences.
