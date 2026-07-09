@@ -1,13 +1,14 @@
-# Project Piston v9
+# Project Piston v10
 
-Updated pragmatic evidence model:
+Garage Mode streamlined:
 
-- Prepare tools/workspace: no photo evidence.
-- Gain access: before + after.
-- Access after-photo doubles as repair before-photo.
-- Carry out service/repair: linked before + after.
-- Inspect related components: during photo per extra part, with Add picture option.
-- Reassemble: after photo only.
-- Road test/final check: no mandatory photo; notes instead.
-
-This reduces duplication and avoids wasting mechanic time while preserving a useful Vehicle Passport record.
+- Instructions appear on the left under each stage.
+- Evidence/actions appear on the right.
+- On mobile, evidence stacks below instructions.
+- Pragmatic evidence model retained:
+  - Prep: no photos
+  - Access: before + after
+  - Repair: linked before + after
+  - Inspect: add picture per extra part
+  - Reassemble: after only
+  - Road test: notes only
