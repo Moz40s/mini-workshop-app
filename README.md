@@ -1,12 +1,17 @@
-# Project Piston v12
+# Project Piston v13
 
-Added linked Whilst You're There sub-jobs:
+Started the first gold-standard content module: Timing Chain Replacement.
 
-- Recommendations now open the related job module directly.
-- Sub-jobs use the same Garage Mode 2.0 layout.
-- App remembers the parent job and current stage.
-- Completing a sub-job returns to the parent repair.
-- Returning without completing is also available.
-- Vehicle Passport logs sub-job opening and completion.
+Added:
+- Timing Chain Replacement v0.1 content draft
+- compatibility notes for R50/R52/R53 and W10/W11
+- symptoms, diagnosis, tools, parts, consumables
+- common mistakes and troubleshooting
+- stage-by-stage Garage Mode timing content
+- internal knowledge base entries with confidence states
+- Steven workshop validation checklist
 
-This makes related work feel like part of the same repair session instead of a separate disconnected checklist.
+Important:
+- Torque values and exact specs are not inserted yet.
+- Public search did not return reliable enough data in this pass.
+- Those fields remain marked verification required.
