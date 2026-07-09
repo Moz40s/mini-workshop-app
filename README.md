@@ -1,14 +1,18 @@
-# Project Piston v10
+# Project Piston Phase 2 / v11
 
-Garage Mode streamlined:
+Added:
+- Garage Mode 2.0
+- Workshop Timeline
+- Active stage card
+- Instructions left / evidence and actions right
+- Workshop Voice panel
+- Torque placeholders per stage
+- Whilst You're There panel
+- Parts panel
+- Cleaner Project Dashboard
 
-- Instructions appear on the left under each stage.
-- Evidence/actions appear on the right.
-- On mobile, evidence stacks below instructions.
-- Pragmatic evidence model retained:
-  - Prep: no photos
-  - Access: before + after
-  - Repair: linked before + after
-  - Inspect: add picture per extra part
-  - Reassemble: after only
-  - Road test: notes only
+Still verification-required:
+- torque values
+- exact fluid quantities
+- OEM part numbers
+- real photographs and annotated diagrams
