@@ -1,17 +1,20 @@
-# Project Piston v13
+# Project Piston v13 — Sprint 3 Build
 
-Started the first gold-standard content module: Timing Chain Replacement.
+Added for feel testing:
 
-Added:
-- Timing Chain Replacement v0.1 content draft
-- compatibility notes for R50/R52/R53 and W10/W11
-- symptoms, diagnosis, tools, parts, consumables
-- common mistakes and troubleshooting
-- stage-by-stage Garage Mode timing content
-- internal knowledge base entries with confidence states
-- Steven workshop validation checklist
+- Annual Service module draft
+- Auxiliary Belt Replacement module draft
+- Expanded Timing Chain job pack/access profile
+- Workshop Builder tab
+- Tool ownership and Workshop Readiness score
+- Tool Database with platform tools
+- Knowledge Base tab with early records
+- Module-specific Job Pack and Access Profile
+- Required tools panel in Garage Mode
+- Validation flags section
 
-Important:
-- Torque values and exact specs are not inserted yet.
-- Public search did not return reliable enough data in this pass.
-- Those fields remain marked verification required.
+Still verification-required:
+- torque values
+- fluid quantities/specs by engine/gearbox
+- exact part numbers
+- workshop photography/diagrams
