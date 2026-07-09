@@ -1,20 +1,15 @@
-# Project Piston v13 — Sprint 3 Build
+# Project Piston v13 — Sprint 3
 
-Added for feel testing:
+Added tangible content and feel-test upgrades:
 
-- Annual Service module draft
-- Auxiliary Belt Replacement module draft
-- Expanded Timing Chain job pack/access profile
-- Workshop Builder tab
-- Tool ownership and Workshop Readiness score
-- Tool Database with platform tools
-- Knowledge Base tab with early records
-- Module-specific Job Pack and Access Profile
-- Required tools panel in Garage Mode
-- Validation flags section
+- Fuller Annual Service module
+- Fuller Auxiliary Belt module
+- Module-specific Job Packs
+- Tool Database records
+- Workshop Builder / Workshop Readiness
+- MINI serpentine belt tool as essential platform tool
+- Tool cards with Budget / Recommended / Premium placeholders
+- Module validation flags
+- Better linked sub-job relationships
 
-Still verification-required:
-- torque values
-- fluid quantities/specs by engine/gearbox
-- exact part numbers
-- workshop photography/diagrams
+Validation flags remain for Steven's workshop review.
