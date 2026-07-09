@@ -1,3 +1,5 @@
-# MINI Workshop v7
+# Project Piston v8
 
-Guided Garage Mode preview with access notes, likely removals, tools, mistakes, diagram placeholders and technician notes.
+Saved prototype with evidence, parts, community, feedback and roadmap framework.
+
+Torque values/specifications remain verification-required.
