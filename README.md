@@ -1,15 +1,13 @@
-# Project Piston v13 — Sprint 3
+# Project Piston v14 — Vehicle State Engine
 
-Added tangible content and feel-test upgrades:
+Added Vehicle State Engine prototype:
 
-- Fuller Annual Service module
-- Fuller Auxiliary Belt module
-- Module-specific Job Packs
-- Tool Database records
-- Workshop Builder / Workshop Readiness
-- MINI serpentine belt tool as essential platform tool
-- Tool cards with Budget / Recommended / Premium placeholders
-- Module validation flags
-- Better linked sub-job relationships
+- Tasks are grouped by vehicle state, not repeated isolated stages.
+- Annual Service now keeps cabin filter/interior work on the ground.
+- Vehicle is raised once for underside work only.
+- Vehicle is lowered before oil refill/final checks.
+- Timing Chain now tracks states such as RH arch access, engine supported, timing exposed.
+- Auxiliary Belt tracks belt removed / belt system exposed state.
+- Evidence now attaches to vehicle states.
 
-Validation flags remain for Steven's workshop review.
+This reduces repetition, removes ambiguity, and improves safety logic.
